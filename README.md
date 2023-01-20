@@ -43,5 +43,5 @@ cp .env.template .env
 ### Start the frontend
 
 ```bash
-	pnpm start
+pnpm start
 ```
